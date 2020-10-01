@@ -1,3 +1,4 @@
+//This is merge sort program using a defined number of threads.
 #include<iostream>
 #include<pthread.h>
 #define MAX 20 
